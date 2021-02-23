@@ -15,7 +15,7 @@ Year: 2020;
 Area: Banda Arc Region (latitude is 7.5-11.25 SOUTH and longitude is 117.5-128.5 EAST, interval is 0.25 degree);
 Depth Coverage: 0-65 km (best solution is in the upper 50 km);
 
-Model resolution description: Checkerboard tests with checker size of 0.75 by 0.75 degree show that the Vs model in upper 50 km can be reasonably resolved in regions where data coverage is dense with lateral resolution of ~60-80 km, although varying degrees of smearing are observed. Please refer to Zhang and Miller, GRL, (2020) for more details.
+Model resolution description: Checkerboard tests with checker size of 0.75 by 0.75 degree show that the Vs model in upper 50 km can be reasonably resolved in regions where data coverage is dense with lateral resolution of ~60-80 km, although varying degrees of smearing are observed. Please refer to Zhang and Miller, GRL, (2021) for more details.
 
 # Paper Citations: 
 Zhang, P., and Miller, M.S., (2021) Seismic imaging of the subducted Australian continental margin beneath Timor and the Banda Arc collision zone, Geophysical Research Letters,e2020GL089632. https://doi.org/10.1029/2020GL089632. 
