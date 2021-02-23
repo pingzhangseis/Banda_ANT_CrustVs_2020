@@ -1,5 +1,5 @@
 # Banda_ANT_CrustVs_2020
-A 3-D crustal Vs model of Banda Arc collision zone based on ambient noise tomography (ANT), derived by Zhang and Miller, (2020).
+A 3-D crustal Vs model of Banda Arc collision zone based on ambient noise tomography (ANT), derived by Zhang and Miller, GRL, (2021).
 
 # Model Summary
 Banda_ANT_CrustVs_2020 is based on ambient noise tomography with ~4-year continuous data from a temporary seismic deployment consisting of 30 broadband stations (YS array; Miller, 2014) deployed in the Timor-Leste and Nusa Tenggara Timur (NTT) region of Indonesia (Miller et al., 2016) together with three permennant stations of GE network (GEOFON Data Center, 1993) in the immediate vicinity. 
