@@ -17,9 +17,11 @@ Depth Coverage: 0-65 km (best solution is in the upper 50 km);
 
 Model resolution description: Checkerboard tests with checker size of 0.75 by 0.75 degree show that the Vs model in upper 50 km can be reasonably resolved in regions where data coverage is dense with lateral resolution of ~60-80 km, although varying degrees of smearing are observed. Please refer to Zhang and Miller, GRL, (2020) for more details.
 
-# Citations: 
-Zhang, P., and Miller, M.S., (2020) Seismic imaging of the subducted Australian continental margin beneath Timor and the Banda Arc collision zone, Geophysical Research Letters, accepted on November 24, 2020 (Paper document and DOI will be updated upon publication)
+# Paper Citations: 
+Zhang, P., and Miller, M.S., (2021) Seismic imaging of the subducted Australian continental margin beneath Timor and the Banda Arc collision zone, Geophysical Research Letters,e2020GL089632. https://doi.org/10.1029/2020GL089632. 
+Miller, M.S., Zhang, P., and Dahlquist, M.P., West, A.J., Becker, T.W. and Harris, C.W., (2021) Inherited lithospheric structures control arc-continent collisional heterogeneity. Geology, 49, XXXX, https://doi.org/10.1130/G48246.1.
 Miller, M. S., O’Driscoll, L. J., Roosmawati, N., Harris, C. W., Porritt, R. W., Widiyantoro, S., ... & Joshua West, A. (2016). Banda Arc Experiment—Transitions in the Banda Arc‐Australian Continental Collision. Seismological Research Letters, 87(6), 1417-1423.
+# Dataset Citations:
 Miller, M.S. (2014). Transitions in the Banda-Arc Australia continental collision, International Federation of Digital Seismograph Networks, Dataset/Seismic Network, doi:10.7914/SN/YS_2014.
 GEOFON Data Centre (1993): GEOFON Seismic Network. Deutsches GeoForschungsZentrum GFZ. Other/Seismic Network. doi:10.14470/TR560404.
 
